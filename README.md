@@ -1,2 +1,2 @@
 # BacteriaClassificationPractice
-Training bacteria classifier with EfficientNet, InceptionV3, Xception and ResNet50
+Training bacteria classifier on EfficientNet, InceptionV3, Xception and ResNet50
